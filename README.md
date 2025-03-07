@@ -1,4 +1,5 @@
 -Implemented face detection using OpenCV's Haar Cascade, achieving efficient and real-time face localization.
+
 -Developed a face recognition system with OpenCV's LBPH, ensuring reliable identification across different conditions.
 -Leveraged OpenCV for image preprocessing, including grayscale conversion, histogram equalization, and resizing.
 -Utilized OpenCV for real-time video processing, enabling continuous face detection and recognition in live streams.
